@@ -1,16 +1,24 @@
-## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,java,cmake,fastapi,mysql,redis,aws,docker,git,vscode)](https://skillicons.dev)
 
-<!--
-**Itapit/Itapit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itapit&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+14th-grade software engineering student.<br>
+Interested in system design, backend development, and cryptography.<br>
+And most importantly, always learning.
+
+---
+
+## 🎓 Skills & Interests
+- Cryptography & cybersecurity
+- Backend development & API design
+- Data structures & algorithms
+- Graph theory & mathematics
+- Cloud infrastructure (AWS, RunPod)
+
+---
+
+## 📫 How to Reach Me
+- Email: ItamarDavid90@gmail.com
