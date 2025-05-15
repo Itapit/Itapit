@@ -7,7 +7,7 @@
 ## 💫 About Me
 14th-grade software engineering student.<br>
 Interested in system design, backend development, and cryptography.<br>
-And most importantly, always learning.
+Most importantly, always learning and improving.
 
 ---
 
