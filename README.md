@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,java,go,cmake,fastapi,mysql,redis,aws,docker ,arch ,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,java,go,cmake,fastapi,mysql,redis,aws,docker ,git,vscode)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itapit&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
