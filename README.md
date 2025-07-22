@@ -5,14 +5,14 @@
 
 ---
 
-## 💫 About Me
+## About Me
 14th-grade software engineering student.<br>
 Interested in system design, backend development, and cryptography.<br>
 Most importantly, always learning and improving.
 
 ---
 
-## 🎓 Skills & Interests
+## Skills & Interests
 - Cryptography & cybersecurity
 - Backend development & API design
 - Data structures & algorithms
@@ -21,5 +21,5 @@ Most importantly, always learning and improving.
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - Email: ItamarDavid90@gmail.com
